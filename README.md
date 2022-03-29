@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 my name is Emily Clark
+
+I'm a BI and Data Analytics Consultant at Bosch. My background is in Marketing and I also have a Master's in Data Science. 
+
+In my spare time I love 
+* 🏐 Playing Volleyball 
+* 🌄 Going on Hikes 
+* ✈️ Traveling 
+* 📚 Reading
 
 <!--
 **eclark15/eclark15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
