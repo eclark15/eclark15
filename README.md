@@ -9,6 +9,7 @@ In my spare time I enjoy...
 * ✈️ Traveling 
 * 📚 Reading 
 
+Feel free to check out my data science projects and let me know if you have questions or want to connect 🙂 
 
 <!--
 **eclark15/eclark15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
