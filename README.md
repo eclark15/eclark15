@@ -1,13 +1,14 @@
-### Hi there! 👋 My name is Emily Clark
+## Hi there! 👋 My name is Emily Clark
 
 I am a BI and Data Analytics Consultant 💻, my background is in Marketing Analytics 🧑‍🤝‍🧑 and I have a Master's in Data Science 📚. 
+
 My [Sparketype](https://sparketype.com/) is a Maven (Primary) and Scientist (Secondary) which means I live to learn and solve problems
 
 I am a member of the [Women in Data](https://www.womenindata.org/) Community and love to support diversity in the workplace, especially in data-related fields. Feel free to check out my data science projects and let me know if you have questions or want to connect 🙂 
 
 
-### More About Me
-**In my spare time I enjoy... **
+## More About Me
+**In my spare time I enjoy...**
 * 🏐 Playing Beach Volleyball 
 * 🎧 Listening to Podcasts
 * ✈️ Traveling 
