@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Emily Clark
+### Hi there! 👋 My name is Emily Clark
 
 I am a BI and Data Analytics Consultant at Bosch. My background is in Marketing Analytics and I also have a Master's in Data Science. I am a member of the [Women in Data](https://www.womenindata.org/) Community and love to support diversity in the workplace, especially in data-related fields. 
 
