@@ -4,7 +4,8 @@ I am a BI and Data Analytics Consultant at Bosch. My background is in Marketing 
 
 In my spare time I enjoy... 
 * 🏐 Playing Beach Volleyball 
-* 🌄 Going on Hikes  
+* 🌄 Going on Hikes
+* 🎧 Listening to Podcasts
 * ✈️ Traveling 
 * 📚 Reading 
 
