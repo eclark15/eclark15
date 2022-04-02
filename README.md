@@ -16,10 +16,10 @@ I am a member of the [Women in Data](https://www.womenindata.org/) Community and
 * 📖 Reading 
 
 **Recommended Reads**
-* Untamed by Glennon Doyle 
-* Think Like a Monk by Jay Shetty
-* Big Magic by Elizabeth Gilbert 
-* The Subtle Art of Not Giving a F*ck by Mark Manson
+* _Untamed_ by Glennon Doyle 
+* _Think Like a Monk_ by Jay Shetty
+* _Big Magic_ by Elizabeth Gilbert 
+* _The Subtle Art of Not Giving a F*ck_ by Mark Manson
 
 <!--
 **eclark15/eclark15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
