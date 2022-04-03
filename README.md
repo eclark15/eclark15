@@ -21,7 +21,8 @@ I am a member of the [Women in Data](https://www.womenindata.org/) Community and
 * _Big Magic_ by Elizabeth Gilbert 
 * _The Subtle Art of Not Giving a F*ck_ by Mark Manson
 
-<!--
+<!-- I am a digital nomad, avid reader, 
+
 **eclark15/eclark15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
