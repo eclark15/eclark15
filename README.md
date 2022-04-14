@@ -1,6 +1,6 @@
 ## Hi there! 👋 My name is Emily Clark
 
-I am a BI and Data Analytics Consultant 💻, my background is in digital analytics and marketing 🧑‍🤝‍🧑 and I have a Master's in Data Science 📚. 
+I am a BI and Data Analytics Consultant 💻, my background is in digital analytics and marketing 🧑‍🤝‍🧑 I have a Master's in Data Science 📚 and am a digital nomad 🚙
 
 My [Sparketype](https://sparketype.com/) is a Maven (Primary) and Scientist (Secondary) which means I live to learn and solve problems
 
