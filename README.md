@@ -18,7 +18,7 @@ I am a member of the [Women in Data](https://www.womenindata.org/) Community and
 **Recommended Reads**
 * _Bending Reality by Victoria Song_
 * _Untamed by Glennon Doyle_ 
-*_ Born a Crime by Trevor Noah_
+* _Born a Crime by Trevor Noah_
 * _Big Magic by Elizabeth Gilbert_ 
 
 <!-- I am a digital nomad, avid reader, 
