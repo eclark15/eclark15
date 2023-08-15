@@ -16,10 +16,10 @@ I am a member of the [Women in Data](https://www.womenindata.org/) Community and
 * 🌄 Going on Hikes
 
 **Recommended Reads**
-* _Bending Reality by Victoria Song_
-* _Untamed by Glennon Doyle_ 
-* _Born a Crime by Trevor Noah_
-* _Big Magic by Elizabeth Gilbert_ 
+* _Bending Reality_ by Victoria Song
+* _Untamed_ by Glennon Doyle 
+* _Born a Crime_ by Trevor Noah
+* _Big Magic_ by Elizabeth Gilbert 
 
 <!-- I am a digital nomad, avid reader, 
 
