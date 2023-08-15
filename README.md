@@ -11,15 +11,15 @@ I am a member of the [Women in Data](https://www.womenindata.org/) Community and
 **In my spare time I enjoy...**
 * 🏐 Playing Beach Volleyball 
 * 🎧 Listening to Podcasts
-* ✈️ Traveling 
+* 🤿 Scuba Diving
+* ✈️ Long-Term Traveling 
 * 🌄 Going on Hikes
-* 📖 Reading 
 
 **Recommended Reads**
+* _Bending Reality by Victoria Song_
 * _Untamed_ by Glennon Doyle 
-* _Think Like a Monk_ by Jay Shetty
+*_ Born a Crime by Trevor Noah_
 * _Big Magic_ by Elizabeth Gilbert 
-* _The Subtle Art of Not Giving a F*ck_ by Mark Manson
 
 <!-- I am a digital nomad, avid reader, 
 
